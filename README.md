@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohammad Hosein
 - 👀 I’m interested in Programming Mobile App With Flutter & React App
 - 🌱 I’m currently learning WebDesign and Mobile Programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me by 
 - t.me/BlackEagle256
 - Email:Mohammadhoseindadgostr@gmail.com
