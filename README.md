@@ -55,9 +55,7 @@
 
 
 
-<p align="center">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackEagle256&layout=compact&theme=dark)
-</p>
 
 ---
 
