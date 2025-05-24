@@ -22,14 +22,12 @@
     <td><strong>📧 Email</strong></td>
     <td>
       <code id="email">Mohammadhoseindadgostr@gmail.com</code>
-      <button onclick="copyToClipboard('email')">📋 Copy</button>
     </td>
   </tr>
   <tr>
     <td><strong>📨 Telegram</strong></td>
     <td>
       <code id="telegram">t.me/BlackEagle256</code>
-      <button onclick="copyToClipboard('telegram')">📋 Copy</button>
     </td>
   </tr>
 </table>
