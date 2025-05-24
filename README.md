@@ -1,54 +1,56 @@
-# 👋 Hi, I'm Mohammad Hosein Dadgostar
+# 👋 Hi there! I'm Mohammad Hosein
 
-### 💻 Full-Stack Developer | Flutter & React Specialist
+---
 
-![Banner](https://github.com/BlackEagle256/BlackEagle256/assets/your-profile-id/header-image.png)
+## 🚀 About Me
 
-## 🔥 Technical Skills
+I'm a passionate developer with a strong interest in **mobile app development** and **web applications**.  
+I love building sleek, user-friendly apps using modern frameworks and technologies.
 
-- **📱 Mobile Development:** Flutter, Dart, Android, iOS
-- **🌐 Web Development:** React.js, Next.js, JavaScript, TypeScript
-- **🔙 Backend Development:** Node.js, Express, MongoDB, MySQL
-- **🎨 Design:** UI/UX, Figma, Adobe XD
-- **🛠 Tools:** Git, Docker, Firebase, REST APIs
+---
 
-## 🚀 Featured Projects
+## 🌟 What I Do
 
-1. **📱 Finance Management App** (Flutter + Firebase)
-   - Expense/income tracking system
-   - Interactive charts and reporting
+- 👀 Currently exploring:
+  - **Flutter** for beautiful, cross-platform mobile apps  
+  - **React.js** for dynamic and responsive web apps  
+- 🌱 Learning:
+  - Advanced **Web Design** principles  
+  - Deeper concepts in **Mobile Programming**
 
-2. **🌐 E-Learning Platform** (React + Node.js)
-   - Course management system
-   - Online payments and video streaming
+---
 
-3. **💼 User Management System** (Full-stack)
-   - Admin panel with CRUD operations
-   - Authentication and role management
+## 💼 Skills & Technologies
 
-## 📚 Currently Learning
+| Mobile              | Web                  | Tools & Others           |
+|---------------------|----------------------|--------------------------|
+| Flutter             | React.js             | Git & GitHub             |
+| Dart                | HTML5, CSS3, JS      | VS Code                  |
+| Android & iOS Dev   | REST APIs            | Firebase (basic)         |
 
-- ⚛️ React Native for cross-platform development
-- 🎯 GraphQL for advanced APIs
-- 🔐 Software security and penetration testing
+---
 
-## 📈 GitHub Stats
+## 📫 Get In Touch
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlackEagle256&show_icons=true&theme=radical)
+I'd love to connect! Feel free to reach out via:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackEagle256&layout=compact&theme=dark)
+- Telegram: [t.me/BlackEagle256](https://t.me/BlackEagle256)  
+- Email: [mohammadhoseindadgostr@gmail.com](mailto:mohammadhoseindadgostr@gmail.com)
 
-## 📫 Connect With Me
+---
 
-- 📧 Email: [Mohammadhoseindadgostr@gmail.com](mailto:Mohammadhoseindadgostr@gmail.com)
-- 📱 Telegram: [@BlackEagle256](https://t.me/BlackEagle256)
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@BlackEagle256](https://twitter.com/BlackEagle256)
+## ⚡ Fun Fact
 
-## ✨ Fun Facts About Me
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
-- 🎹 Passionate about music and piano
-- 🌍 Fluent in Persian, English, and German
-- 🏆 Winner of several hackathons in different fields
+---
 
-![Footer](https://github.com/BlackEagle256/BlackEagle256/assets/your-profile-id/footer-image.png)
+## 🔗 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge)](https://github.com/BlackEagle256)  
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram&style=for-the-badge)](https://t.me/BlackEagle256)
+
+---
+
+Thanks for visiting my profile! 😊
