@@ -72,7 +72,6 @@
 
 ---
 
-<!-- Clipboard copy script -->
 <script>
   function copyToClipboard(id) {
     const text = document.getElementById(id).innerText;
