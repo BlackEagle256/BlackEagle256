@@ -53,13 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackEagle256&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BlackEagle256&theme=tokyonight&hide_border=false" />
-</p>
 
 ---
 
