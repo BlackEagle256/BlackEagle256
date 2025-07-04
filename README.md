@@ -33,6 +33,7 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
