@@ -1,78 +1,115 @@
-<h1 align="center">👋 Hi, I'm Mohammad Hosein</h1>
+<div align="center">
 
-<p align="center">
-  💻 Passionate Developer • 📱 Flutter & React Enthusiast • 🌐 Web & Mobile Explorer
-</p>
+# 👋 Hi, I'm Mohammad Hosein
+
+### Full-Stack Developer · AI/ML Explorer · Software Engineering Student
+
+💻 Web Development &nbsp;•&nbsp; 📱 Mobile Applications &nbsp;•&nbsp; 🧠 Artificial Intelligence
+
+I build practical web applications, intelligent systems, and developer-focused projects with an emphasis on clean architecture, maintainable code, and continuous learning.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mh-dadgostar/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mh.fullstack.dev/)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BlackEagle256)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadhoseindadgostr@gmail.com)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently learning **Web Design** and **Mobile App Development**
-- 🔭 Interested in building apps using **Flutter** and **React**
-- 📚 Always eager to explore new technologies and grow as a developer
-- 🎯 Passionate about writing clean, scalable, and maintainable code
+- 🔭 Building full-stack applications with **React, Next.js, Node.js, Django, and REST APIs**
+- 🧠 Exploring **machine learning, deep learning, explainable AI, and reproducible ML workflows**
+- 📱 Developing cross-platform mobile applications with **Flutter**
+- 🧩 Focused on clean code, scalable architecture, performance, and practical problem-solving
+- 🌱 Improving my skills in **MLOps, DevOps, deployment, and production-ready systems**
+- 🤝 Open to collaboration on meaningful **web, mobile, and AI projects**
 
 ---
 
-## 📫 Get in Touch
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,java,html,css" alt="JavaScript, TypeScript, Python, Dart, Java, HTML, and CSS" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" alt="React, Next.js, Tailwind CSS and Flutter" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mysql" alt="Node.js, Express and MySQL" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode" alt="Git, GitHub, Docker, Linux, Nginx, and VS Code" />
+</p>
+
+---
+
+## 📌 Featured Projects
 
 <table>
   <tr>
-    <td><strong>📧 Email</strong></td>
-    <td><a href="mailto:Mohammadhoseindadgostr@gmail.com"><code>Mohammadhoseindadgostr@gmail.com</code></a></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BlackEagle256/DeepLearning-miniProject">Surrogate Models for Composites</a></h3>
+      <p>An interpretable, overfitting-resistant ML system for small experimental datasets, featuring cross-validation, uncertainty analysis, SHAP/LIME, Optuna, statistical testing, and MLflow tracking.</p>
+      <p><code>Python</code> <code>Machine Learning</code> <code>XAI</code> <code>MLflow</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BlackEagle256/RealTimeChat">Real-Time Chat Application</a></h3>
+      <p>A full-stack chat platform with WebSockets, JWT authentication, user profiles, message history, Redis-backed channels, and optional encrypted messaging.</p>
+      <p><code>React</code> <code>Django</code> <code>WebSocket</code> <code>Redis</code></p>
+    </td>
   </tr>
   <tr>
-    <td><strong>💬 Telegram</strong></td>
-    <td><a href="https://t.me/BlackEagle256"><code>t.me/BlackEagle256</code></a></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BlackEagle256/stripe-django-payments">Django Stripe Payments</a></h3>
+      <p>A clean Stripe Checkout integration for Django with success and cancellation flows, reusable structure, and production-oriented configuration guidance.</p>
+      <p><code>Python</code> <code>Django</code> <code>Stripe</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BlackEagle256/Deep-Image-Classifier-CNN">CNN Image Classifier</a></h3>
+      <p>A deep-learning image classification project focused on building and training convolutional neural networks.</p>
+      <p><code>Python</code> <code>Deep Learning</code> <code>CNN</code></p>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tools & Technologies
+## 📊 GitHub Analytics
 
-<p align="center">
-    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
-</p>
+<!-- <div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackEagle256&theme=tokyonight" alt="GitHub statistics" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlackEagle256&theme=tokyonight" alt="Languages by repository" />
+</div> -->
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BlackEagle256&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackEagle256&show_icons=true&theme=tokyonight" />
-</p>
+I'm always interested in learning, collaborating, and turning useful ideas into working software. If you have a project, an opportunity, or simply want to discuss technology, feel free to reach out.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackEagle256&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=BlackEagle256&color=7c3aed&style=flat-square&label=Profile+Views)](https://github.com/BlackEagle256)
 
-## 🔗 Connect with Me
+**Thanks for visiting!**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mh-dadgostar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/mh.fullstack.dev">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/BlackEagle256">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:Mohammadhoseindadgostr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
