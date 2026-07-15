@@ -33,7 +33,7 @@ I build practical web applications, intelligent systems, and developer-focused p
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,java,html,css" alt="JavaScript, TypeScript, Python, Dart, Java, HTML, and CSS" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" alt="JavaScript, TypeScript, Python, Dart, Java, HTML, and CSS" />
 </p>
 
 ### Frontend & Mobile
