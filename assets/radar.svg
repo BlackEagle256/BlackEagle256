@@ -1,0 +1,56 @@
+<svg width="440" height="370" viewBox="0 0 440 370" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="radarFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.25"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .lbl { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 15px; fill: #C9D1D9; font-weight: 600; }
+      .grid { fill: none; stroke: #30363D; stroke-width: 1; }
+      .axis { stroke: #30363D; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="440" height="370" rx="18" fill="#0D1117"/>
+  <circle cx="220" cy="200" r="150" fill="url(#glow)">
+    <animate attributeName="r" values="140;158;140" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="220" y="22" text-anchor="middle" class="lbl" font-size="17" fill="#A78BFA">⚡ Skill Radar</text>
+
+  <!-- grid rings -->
+  <polygon class="grid" points="220.0,167.5 250.9,190.0 239.1,226.3 200.9,226.3 189.1,190.0"/>
+  <polygon class="grid" points="220.0,135.0 281.8,179.9 258.2,252.6 181.8,252.6 158.2,179.9"/>
+  <polygon class="grid" points="220.0,102.5 312.7,169.9 277.3,278.9 162.7,278.9 127.3,169.9"/>
+  <polygon class="grid" points="220.0,70.0 343.6,159.8 296.4,305.2 143.6,305.2 96.4,159.8"/>
+
+  <!-- axis lines -->
+  <line class="axis" x1="220" y1="200" x2="220.0" y2="70.0"/>
+  <line class="axis" x1="220" y1="200" x2="343.6" y2="159.8"/>
+  <line class="axis" x1="220" y1="200" x2="296.4" y2="305.2"/>
+  <line class="axis" x1="220" y1="200" x2="143.6" y2="305.2"/>
+  <line class="axis" x1="220" y1="200" x2="96.4" y2="159.8"/>
+
+  <!-- data polygon (pulsing) -->
+  <polygon points="220.0,83.0 325.1,165.9 277.3,278.9 157.3,286.2 139.6,173.9" fill="url(#radarFill)" stroke="#A78BFA" stroke-width="2">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- data points -->
+  <circle cx="220.0" cy="83.0" r="4" fill="#A78BFA"><animate attributeName="r" values="3;6;3" dur="2.4s" begin="0s" repeatCount="indefinite"/></circle>
+  <circle cx="325.1" cy="165.9" r="4" fill="#A78BFA"><animate attributeName="r" values="3;6;3" dur="2.4s" begin="0.3s" repeatCount="indefinite"/></circle>
+  <circle cx="277.3" cy="278.9" r="4" fill="#A78BFA"><animate attributeName="r" values="3;6;3" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+  <circle cx="157.3" cy="286.2" r="4" fill="#A78BFA"><animate attributeName="r" values="3;6;3" dur="2.4s" begin="0.9s" repeatCount="indefinite"/></circle>
+  <circle cx="139.6" cy="173.9" r="4" fill="#A78BFA"><animate attributeName="r" values="3;6;3" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+
+  <!-- labels -->
+  <text x="220.0" y="55" text-anchor="middle" class="lbl">Frontend</text>
+  <text x="370.3" y="151.2" text-anchor="start" class="lbl">Backend</text>
+  <text x="312.9" y="340" text-anchor="middle" class="lbl">Mobile</text>
+  <text x="127.1" y="340" text-anchor="middle" class="lbl">AI/ML</text>
+  <text x="69.7" y="151.2" text-anchor="end" class="lbl">DevOps</text>
+</svg>

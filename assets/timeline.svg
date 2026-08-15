@@ -1,0 +1,60 @@
+<svg width="800" height="190" viewBox="0 0 800 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <style>
+      .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 17px; fill: #A78BFA; font-weight: 700; }
+      .step  { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #C9D1D9; font-weight: 600; }
+      .sub   { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 11px; fill: #8B949E; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="800" height="190" rx="18" fill="#0D1117"/>
+  <text x="400" y="26" text-anchor="middle" class="title">🛤️ Dev Journey</text>
+
+  <!-- base track -->
+  <line x1="70" y1="100" x2="730" y2="100" stroke="#30363D" stroke-width="3"/>
+
+  <!-- animated progress line -->
+  <line x1="70" y1="100" x2="730" y2="100" stroke="url(#lineGrad)" stroke-width="3"
+        stroke-dasharray="660" stroke-dashoffset="660">
+    <animate attributeName="stroke-dashoffset" values="660;0;0;660" keyTimes="0;0.45;0.85;1" dur="6s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- node 1 -->
+  <circle cx="70" cy="100" r="7" fill="#A78BFA">
+    <animate attributeName="r" values="5;9;5" dur="1.6s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <text x="70" y="70" text-anchor="middle" class="step">First Lines of Code</text>
+  <text x="70" y="128" text-anchor="middle" class="sub">curiosity sparks</text>
+
+  <!-- node 2 -->
+  <circle cx="235" cy="100" r="7" fill="#A78BFA">
+    <animate attributeName="r" values="5;9;5" dur="1.6s" begin="0.3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="235" y="70" text-anchor="middle" class="step">Web Development</text>
+  <text x="235" y="128" text-anchor="middle" class="sub">React · Next.js · Django</text>
+
+  <!-- node 3 -->
+  <circle cx="400" cy="100" r="7" fill="#A78BFA">
+    <animate attributeName="r" values="5;9;5" dur="1.6s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="400" y="70" text-anchor="middle" class="step">Mobile Apps</text>
+  <text x="400" y="128" text-anchor="middle" class="sub">Flutter</text>
+
+  <!-- node 4 -->
+  <circle cx="565" cy="100" r="7" fill="#A78BFA">
+    <animate attributeName="r" values="5;9;5" dur="1.6s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <text x="565" y="70" text-anchor="middle" class="step">AI / ML Exploration</text>
+  <text x="565" y="128" text-anchor="middle" class="sub">XAI · MLOps</text>
+
+  <!-- node 5 -->
+  <circle cx="730" cy="100" r="8" fill="#7C3AED" stroke="#A78BFA" stroke-width="2">
+    <animate attributeName="r" values="6;10;6" dur="1.6s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="730" y="70" text-anchor="middle" class="step">Now: Building 🚀</text>
+  <text x="730" y="128" text-anchor="middle" class="sub">production-ready systems</text>
+</svg>
